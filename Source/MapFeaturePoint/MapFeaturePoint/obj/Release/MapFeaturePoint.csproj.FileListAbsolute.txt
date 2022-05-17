@@ -1,0 +1,11 @@
+F:\C#\MapFeaturePoint\MapFeaturePoint\bin\Release\MapFeaturePoint.dll
+F:\C#\MapFeaturePoint\MapFeaturePoint\bin\Release\MapFeaturePoint.pdb
+F:\C#\MapFeaturePoint\MapFeaturePoint\bin\Release\FeaturePointDataModel.dll
+F:\C#\MapFeaturePoint\MapFeaturePoint\bin\Release\FeaturePointDataModel.pdb
+F:\C#\MapFeaturePoint\MapFeaturePoint\obj\Release\ResolveAssemblyReference.cache
+F:\C#\MapFeaturePoint\MapFeaturePoint\obj\Release\MapFeaturePoint.WinForm.GetFeaturePoint_Form.resources
+F:\C#\MapFeaturePoint\MapFeaturePoint\obj\Release\GenerateResource.read.1.tlog
+F:\C#\MapFeaturePoint\MapFeaturePoint\obj\Release\GenerateResource.write.1.tlog
+F:\C#\MapFeaturePoint\MapFeaturePoint\obj\Release\MapFeaturePoint.dll
+F:\C#\MapFeaturePoint\MapFeaturePoint\obj\Release\MapFeaturePoint.pdb
+F:\C#\MapFeaturePoint\MapFeaturePoint\bin\Release\MapFeaturePoint.esriAddIn

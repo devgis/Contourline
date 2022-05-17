@@ -1,0 +1,5 @@
+F:\C#\MapFeaturePoint\FeaturePointDataModel\bin\Release\FeaturePointDataModel.dll
+F:\C#\MapFeaturePoint\FeaturePointDataModel\bin\Release\FeaturePointDataModel.pdb
+F:\C#\MapFeaturePoint\FeaturePointDataModel\obj\Release\ResolveAssemblyReference.cache
+F:\C#\MapFeaturePoint\FeaturePointDataModel\obj\Release\FeaturePointDataModel.dll
+F:\C#\MapFeaturePoint\FeaturePointDataModel\obj\Release\FeaturePointDataModel.pdb

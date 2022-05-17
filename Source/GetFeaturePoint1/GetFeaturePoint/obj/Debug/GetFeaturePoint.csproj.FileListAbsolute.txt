@@ -1,0 +1,15 @@
+D:\费老师项目\程序\GetFeaturePoint\GetFeaturePoint\bin\Debug\GetFeaturePoint.dll
+D:\费老师项目\程序\GetFeaturePoint\GetFeaturePoint\bin\Debug\GetFeaturePoint.pdb
+D:\费老师项目\程序\GetFeaturePoint\GetFeaturePoint\bin\Debug\Utility.dll
+D:\费老师项目\程序\GetFeaturePoint\GetFeaturePoint\bin\Debug\DataStructure.dll
+D:\费老师项目\程序\GetFeaturePoint\GetFeaturePoint\bin\Debug\Utility.pdb
+D:\费老师项目\程序\GetFeaturePoint\GetFeaturePoint\obj\Debug\GetFeaturePoint.WinForm.SmoothWinform.resources
+D:\费老师项目\程序\GetFeaturePoint\GetFeaturePoint\obj\Debug\GetFeaturePoint.dll
+D:\费老师项目\程序\GetFeaturePoint\GetFeaturePoint\obj\Debug\GetFeaturePoint.pdb
+D:\费老师项目\程序\GetFeaturePoint\GetFeaturePoint\bin\Debug\BusinessLayer.dll
+D:\费老师项目\程序\GetFeaturePoint\GetFeaturePoint\bin\Debug\log4net.dll
+D:\费老师项目\程序\GetFeaturePoint\GetFeaturePoint\bin\Debug\BusinessLayer.pdb
+D:\费老师项目\程序\GetFeaturePoint\GetFeaturePoint\bin\Debug\log4net.xml
+D:\费老师项目\程序\GetFeaturePoint\GetFeaturePoint\obj\Debug\ResolveAssemblyReference.cache
+D:\费老师项目\程序\GetFeaturePoint\GetFeaturePoint\bin\Debug\DataStructure.pdb
+D:\费老师项目\程序\GetFeaturePoint\GetFeaturePoint\bin\Debug\GetFeaturePoint.esriAddIn

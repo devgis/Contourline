@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapFeaturePoint", "MapFeaturePoint\MapFeaturePoint.csproj", "{4E4AB9DE-6A43-4930-BB47-38C5E4969C72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeaturePointDataModel", "FeaturePointDataModel\FeaturePointDataModel.csproj", "{C5F9B611-1F67-4E15-B6EA-E2C86C057396}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E4AB9DE-6A43-4930-BB47-38C5E4969C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4AB9DE-6A43-4930-BB47-38C5E4969C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E4AB9DE-6A43-4930-BB47-38C5E4969C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4AB9DE-6A43-4930-BB47-38C5E4969C72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5F9B611-1F67-4E15-B6EA-E2C86C057396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F9B611-1F67-4E15-B6EA-E2C86C057396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F9B611-1F67-4E15-B6EA-E2C86C057396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F9B611-1F67-4E15-B6EA-E2C86C057396}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
